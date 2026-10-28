@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "databricks-sync",
+  "versions": [
+    {
+      "commit": "25405c7b771987d2a67527086d75108f71cf0a06",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:38:47.087209+00:00"
+    }
+  ]
+}
